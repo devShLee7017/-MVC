@@ -28,6 +28,7 @@ public class NoticeListServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		
+		//페이지뷰 만들기
 	}
 
 	/**
