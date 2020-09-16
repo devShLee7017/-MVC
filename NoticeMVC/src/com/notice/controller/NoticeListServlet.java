@@ -29,7 +29,9 @@ public class NoticeListServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		
 		//페이지뷰 만들기
+
 		//공지사항 페이지뷰 변경 및 어노테이션 추가
+
 	}
 
 	/**
